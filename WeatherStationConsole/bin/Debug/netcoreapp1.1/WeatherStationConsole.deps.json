@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "65444c7e19f82f5bf04e6cc445fbed2956d607ce"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "weatherstationconsole/1.0.0": {
+        "dependencies": {
+          "WeatherStation": "1.0.0"
+        },
+        "runtime": {
+          "WeatherStationConsole.dll": {}
+        }
+      },
+      "system.collections.nongeneric/4.3.0": {
+        "runtime": {
+          "lib/netstandard1.3/System.Collections.NonGeneric.dll": {}
+        }
+      },
+      "weatherstation/1.0.0": {
+        "dependencies": {
+          "System.Collections.NonGeneric": "4.3.0"
+        },
+        "runtime": {
+          "WeatherStation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "weatherstationconsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "system.collections.nongeneric/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PZgU5Lgc3Oy5e1lVBCGvSpJ8VyrrjTlRKL2mluKGmbiaSN3K7oARSf9r3+gWCc/YgLwuj6LgAUJVGe1tNNnshQ==",
+      "path": "system.collections.nongeneric/4.3.0",
+      "hashPath": "system.collections.nongeneric.4.3.0.nupkg.sha512"
+    },
+    "weatherstation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

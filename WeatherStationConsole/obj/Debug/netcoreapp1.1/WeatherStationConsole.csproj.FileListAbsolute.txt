@@ -1,0 +1,11 @@
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStationConsole\bin\Debug\netcoreapp1.1\WeatherStationConsole.deps.json
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStationConsole\bin\Debug\netcoreapp1.1\WeatherStationConsole.runtimeconfig.json
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStationConsole\bin\Debug\netcoreapp1.1\WeatherStationConsole.runtimeconfig.dev.json
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStationConsole\bin\Debug\netcoreapp1.1\WeatherStationConsole.dll
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStationConsole\bin\Debug\netcoreapp1.1\WeatherStationConsole.pdb
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStationConsole\bin\Debug\netcoreapp1.1\WeatherStation.dll
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStationConsole\bin\Debug\netcoreapp1.1\WeatherStation.pdb
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStationConsole\obj\Debug\netcoreapp1.1\WeatherStationConsole.csprojResolveAssemblyReference.cache
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStationConsole\obj\Debug\netcoreapp1.1\WeatherStationConsole.AssemblyInfo.cs
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStationConsole\obj\Debug\netcoreapp1.1\WeatherStationConsole.dll
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStationConsole\obj\Debug\netcoreapp1.1\WeatherStationConsole.pdb

@@ -1,0 +1,7 @@
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStation\bin\Debug\netstandard1.4\WeatherStation.deps.json
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStation\obj\Debug\netstandard1.4\WeatherStation.csprojResolveAssemblyReference.cache
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStation\obj\Debug\netstandard1.4\WeatherStation.AssemblyInfo.cs
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStation\bin\Debug\netstandard1.4\WeatherStation.dll
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStation\bin\Debug\netstandard1.4\WeatherStation.pdb
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStation\obj\Debug\netstandard1.4\WeatherStation.dll
+c:\users\ernie\documents\visual studio 2017\Projects\WeatherStation\WeatherStation\obj\Debug\netstandard1.4\WeatherStation.pdb
