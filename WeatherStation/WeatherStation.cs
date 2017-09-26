@@ -8,9 +8,12 @@ namespace WeatherStation
         {
             WeatherData weatherData = new WeatherData();
 
-            //Creates the display and passes it to the WeatherData object
+            //Creates the displays and pass them to the WeatherData object
             CurrentConditionsDisplay currentDisplay = new CurrentConditionsDisplay(weatherData);
-            
+            StatisticsDisplay statisticsDisplay = new StatisticsDisplay(weatherData);
+            ForecastDisplay forecastDisplay = new ForecastDisplay(weatherData);
+            HeatIndexDisplay heatIndexDisplay = new HeatIndexDisplay(weatherData);
+
             //Simulate new weather measurements
             weatherData.setMeasurements(80, 65, 30.4f);
             weatherData.setMeasurements(82, 70, 29.2f);
